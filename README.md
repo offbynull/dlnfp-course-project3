@@ -1,2 +1,3 @@
-# dlnfp-course-project3
-DLNFP Project 3 - Generate TV Scripts
+# Deep Learning Nanodegree Foundations -- Project 3
+
+Generate your own Simpsons TV scripts using RNNs.
